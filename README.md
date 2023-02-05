@@ -1,1 +1,1 @@
-kind argo starter
+kind argo starter bootstrap
